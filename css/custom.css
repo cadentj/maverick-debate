@@ -15,7 +15,7 @@
 
 .signup-section {
   padding: 0rem !important;
-  padding-top: 7rem !important;
+  padding-top: 5rem !important;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.6) 0%, #000 100%), url("../assets/img/about-cover.jpg");
   background-position: center left !important;
 }
