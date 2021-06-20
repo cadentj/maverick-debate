@@ -1,5 +1,5 @@
 .masthead {
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/cover-03.jpg") !important;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 85%, #000 100%), url("../assets/img/cover-03.jpg") !important;
   background-position: top-center !important;
   background-repeat: no-repeat !important;
   background-attachment: scroll !important;
@@ -11,4 +11,25 @@
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
           background-clip: text;
+}
+
+.signup-section {
+  padding-top: 7rem !important;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.6) 0%, #000 100%), url("../assets/img/about-cover.jpg");
+  background-position: center left !important;
+}
+
+.about-section {
+  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 30%, rgba(0, 0, 0, 0.5) 100%), url("../assets/img/about-cover.jpg") !important;
+  background-position: center !important;
+}
+
+.mb-image {
+  margin-bottom: 10rem !important;
+}
+
+  
+
+.info-text {
+  font-size: calc(1rem + 0.3vw);
 }
